@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require './lib/overwatch_helper'
+
+OverwatchHelper::CLI.new.call

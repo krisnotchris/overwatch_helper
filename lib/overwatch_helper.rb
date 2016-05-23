@@ -1,5 +1,2 @@
-require "overwatch_helper/version"
-
-module OverwatchHelper
-  # Your code goes here...
-end
+require_relative "overwatch_helper/version"
+require_relative "./overwatch_helper/cli"
