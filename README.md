@@ -1,41 +1,22 @@
-# OverwatchHelper
+# Overwatch Helper CLI Gem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/overwatch_helper`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to my Overwatch CLI gem. With this gem, you can:
+  - Check the current list of characters.
+  - Check the current list of maps.
 
-TODO: Delete this and the text above, and describe your gem
+#### Installation
+ Add to your gemfile:
 
-## Installation
+ `gem 'overwatch_helper'`
 
-Add this line to your application's Gemfile:
+ or install from Rubygems:
 
-```ruby
-gem 'overwatch_helper'
-```
+ `gem install 'overwatch_helper'`
 
-And then execute:
+#### Usage
+ After installing the gem, you will run it by typing:
 
-    $ bundle
+ `./bin/overwatch_helper`
 
-Or install it yourself as:
-
-    $ gem install overwatch_helper
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/overwatch_helper. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
-
-
-## License
-
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
+ Enjoy :)
+ Any questions or comments can be sent to krishenderson@gmail.com
