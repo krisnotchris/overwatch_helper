@@ -1,4 +1,4 @@
-# Overwatch Helper CLI Gem
+# Overwatch Helper CLI Gem - v. 0.1.0
 
 Welcome to my Overwatch CLI gem. With this gem, you can:
   - Check the current list of characters.
